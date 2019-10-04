@@ -1,1 +1,1 @@
-PRODUCT_MAKEFILES := $(LOCAL_PATH)/omni_matisselte.mk
+PRODUCT_MAKEFILES := device/samsung/matisselte/omni_matisselte.mk
